@@ -14,7 +14,7 @@ To build a strong foundation in problem solving, algorithm design, and data stru
 
 ## 🚀 Getting Started
 
-    Clone the repo:
+Clone the repo:
 ```bash
 git clone https://github.com/mariscalromeroalejandro/data-structures-js
 ```
