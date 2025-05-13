@@ -12,6 +12,11 @@ To build a strong foundation in problem solving, algorithm design, and data stru
 - Time and space complexity analysis with Big O notation
 - Clean, testable, and well-commented JavaScript solutions
 
+## Structure
+### Stacks
+A stack is a linear data structure that follows the Last In First Out (LIFO) principle, meaning the last element added is the first one to be removed. It is commonly used in programming for tasks such as managing function calls and undo mechanisms in applications.
+
+
 ## 🚀 Getting Started
 
 Clone the repo:
